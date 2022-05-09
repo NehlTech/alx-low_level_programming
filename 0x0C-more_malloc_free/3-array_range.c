@@ -1,5 +1,3 @@
-
-   
 /*
  * File: 3-array_range.c
  * Auth: Bright
