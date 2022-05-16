@@ -13,6 +13,7 @@ return (0);
 va_start(valist, n);
 
 for (i = 0; i < n; i++)
+
 sum += va_arg(valist, int);
 va_end(valist);
 
