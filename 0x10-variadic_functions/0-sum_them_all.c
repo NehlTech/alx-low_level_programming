@@ -1,8 +1,3 @@
-/*
- * File: 0-sum_them-all.c
- * Auth: Bright
- */
-
 #include <stdarg.h>
 #include "variadic_functions.h"
 
